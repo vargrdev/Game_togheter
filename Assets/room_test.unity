@@ -131,6 +131,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: person
       objectReference: {fileID: 0}
+    - target: {fileID: 4211715938831808997, guid: d0a063a3b41e4de45ab443c5e697528b, type: 3}
+      propertyPath: velocidade
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 6320125297063011594, guid: d0a063a3b41e4de45ab443c5e697528b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.63
